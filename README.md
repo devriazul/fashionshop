@@ -7,7 +7,7 @@
 - Vanila JavaScript
 - Custom filter made by vanilla JavaScript
 
-<!-- [Demo](https://russellimtiaz.github.io/fashion-shop/) -->
+[Demo](https://devriazul.github.io/fashionshop/)
 
 <!-- ![preview](preview.png) -->
 # fashionshop
